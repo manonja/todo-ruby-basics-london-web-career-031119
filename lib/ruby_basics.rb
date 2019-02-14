@@ -24,6 +24,6 @@ def last_evaluated_value
   phrase
 end
 
-def pizza_party
-
+def pizza_party(what='cheese')
+  what
 end
